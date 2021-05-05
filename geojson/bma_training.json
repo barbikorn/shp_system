@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ศูนย์ฝึกอบรม กทม.",
+                "address": "46/4 หมู่ 5 ถ.เชื่อมสัมพันธ์",
+                "dcode": "1003",
+                "tel": "0 25431608",
+                "x": 700013.394,
+                "y": 1530197.538,
+                "URL": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.85053038231094,
+                    13.834518408159207
+                ]
+            }
+        }
+    ]
+}

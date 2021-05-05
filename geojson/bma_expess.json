@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 0,
+                "NAME": "ศูนย์บริการด่วนมหานคร พร้อมพงษ์",
+                "DCODE": "1033",
+                "TEL": "-"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.56966657888702,
+                    13.730507759318602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 0,
+                "NAME": "ศูนย์บริการด่วนมหานคร หมอชิต",
+                "DCODE": "1030",
+                "TEL": "-"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.55468415586802,
+                    13.804257399041461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 0,
+                "NAME": "ศูนย์บริการด่วนมหานคร สยามพารากอน",
+                "DCODE": "1007",
+                "TEL": "02-2500125-6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53280132949779,
+                    13.745853452619865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 0,
+                "NAME": "ศูนย์บริการด่วนมหานคร ศาลาว่าการกรุงเทพมหานคร(เสาชิงช้า)",
+                "DCODE": "1001",
+                "TEL": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.502128242425,
+                    13.75430122415139
+                ]
+            }
+        }
+    ]
+}

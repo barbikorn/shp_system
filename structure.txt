@@ -1,0 +1,197 @@
+
+โครงสร้างที่พบ
+fetures
+    Feature
+    properties
+        name
+    geometry
+        type : [ Point , LineString, Polygon ]
+    
+geometory->Point
+  coordinates (lat , lng ) => point 
+  
+geometory->LineString
+  coordinates[ point ,  ...]
+
+geometory->Polygon
+    coordinates[ [ point , .. ] ,  [ point , .. ] ... ]
+
+Note
+====
+- x = lat , y = lng 
+- ทั้งหมดเก็บใน encoding => tis-620 ยกเว้น
+    BMA_ADMIN_SUB_DISTRICT ? encode=utf-8
+
+==============================
+
+ADMIN_LINE  : ไม่รู้ว่าเป็นข้อมูลอะไร ไม่มีชื่อใน preoperties
+==========
+    Fetature
+        name : OBJECTID 
+        note : LENGTH:ความยาวของพื้นที่
+    geometry
+        type : LineString 
+        coordinates : [ ( lat , lng ) , ]
+
+airport: ตำแหน่งที่ตั้งสนามบิน
+=======
+    Fetature
+        name : NAME
+        note : TEL_: เบอร์โทรศัพย์ , Location : ที่ตั้ง , usability : การใช้งาน ,  Area : ขนาดพื้นที่ 
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 
+
+airportlink_line : เส้นทางรถไฟฟ้าท่าอากาศยานสุวรรณภูมิ
+================
+    Fetature
+        name : name 
+        note : detail : รายละเอียด
+    geometry
+        type : LineString 
+        coordinates : [ ( lat , lng ) , ]
+
+airportlink_station : สถานีรถไฟฟ้า
+===================
+    Fetature
+        name : NAME
+        note : location: ที่ตั้ง
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 
+
+        
+bike_way : ทางรถจักรยาน
+========
+    Fetature
+        name : NAME
+        note : STATR : จุดเริ่มต้น, END: จุดสิ้นสุด , Diatance: ระยะทาง, type : ชนิด
+    geometry
+        type : LineString 
+        coordinates : [ ( lat , lng ) , ]
+
+BMA_ADMIN_SUB_DISTRICT  ใช้รหัส ? UTF-8 ???? 
+======================
+    Fetature
+        ไม่มี name
+    geometry
+        type : Polygon
+        coordinates : [ line , ... ]
+
+
+bma_expess.json : ศูนย์บริการด่วนมหานคร
+===============
+    Fetature
+        name : NAME
+        note : TEL : เบอร์โทรศัพย์
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 
+
+bma_office : หน่วยงานใน กทม.
+==========
+    Fetature
+        name : NAME 
+        note : ADDRESS : ที่ตั้ง , TEL : เบอร์โทรศัพย์
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 
+
+bma_training : ศูนย์ฝึกอบรม กทม. 
+============
+    Fetature
+        name : name 
+        note : address: ที่ตั้ง , tel: เบอร์โทรศัพย์
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 
+
+bma_zone : พื้นที่ กทม.
+========
+    Fetature
+        name : z_name
+        note : z_name_e : ชื่อภาษาอังกฤษ, no_male: จำนวนประชากรชาย  , no_female : จำนวนประชากรหญิง , no_house : จำนวนบ้าน , no_commu : , z_area : พื้นที่
+    geometry
+        type : Polygon
+        coordinates : [ line , ... ]
+
+brt_line : เส้นทางเดินรถ BRT
+========
+    Fetature
+        name : name 
+        note : detail : รายละเอียด, num_sta : จำนวนสถานี
+    geometry
+        type : LineString 
+        coordinates : [ ( lat , lng ) , ]
+
+
+brt_station : สถานีรถไฟฟ้า BRT
+===========
+    Fetature
+        name : name 
+        note : location : ที่ตั้ง , num_pass : จำนวนผู้โดยสาร
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 
+
+district : เขตใน กทม.
+========
+    Fetature
+         name : dname 
+         note : dname_e : ชื่อภาษาอังกฤษ, no_male: จำนวนประชากรชาย, no_female : จำนวนประชากรหญิง, no_health : no_health , no_temple: จำนวนวัด, no_commu: จำนวนชุมชน , no_hos : จำนวนโรงพยาบาล, no_sch: จำนวนโรงเรียน, AREA: ขนาดพื้นที่
+    geometry
+        type : Polygon
+        coordinates : [ line , ... ]
+
+mea_office : ที่ทำการไฟฟ้า
+==========
+    Fetature
+        name : name 
+        note : address : ที่ตั้ง, tel : เบอร์โทรศัพย์, fax:เบอร์ Fax
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 
+
+ministry : หน่วยงานราชการ
+========
+    Fetature
+        name : name_t
+        note : name_e: ชื่อภาษาอังกฤษ, addess : ที่ตั้ง , tel: เบอร์โทรศัพย์
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 
+
+mwa_area : พื้นที่รับผิดชอบของการประปา
+========
+    Fetature
+        name : NAME
+    geometry
+        type : Polygon
+        coordinates : [ line , ... ]
+
+mwa_office : ที่ทำการของกองประปา
+==========
+    Fetature
+        name : name 
+        note : address : ที่ตั้ง , tel : เบอร์โทรศัพย์  , fax : เบอร์ fax
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 
+
+police_area : สถานีตำรวจ
+===========
+    Fetature
+        name : name 
+        note : area : กองบัญชาการตำรวจ , tel : เบอร์โทรศัพย์
+    geometry
+        type : Polygon
+        coordinates : [ line , ... ]
+    
+police_station : สถานีตำรวจ
+==============
+    Fetature
+        name : NAME
+        note : ADDRESS: ที่ตั้ง, TEL: เบอร์โทรศัพย์ , FAX : เบอร์ fax
+    geometry
+        type : point
+        coordinates : ( lat , lng ) 

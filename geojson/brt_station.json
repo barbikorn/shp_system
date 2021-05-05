@@ -1,0 +1,251 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "สาทร",
+                "dcode": "1004",
+                "location": "บริเวณแยกถนนนราธิวาสราชนครินทร์-ถนนสาทร ระหว่างตึกตึกเอ็มเอฟ)",
+                "num_pass": 1382902,
+                "x": 665453.552,
+                "y": 1517528.674
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53012533626963,
+                    13.722210434365673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "อาคารสงเคราะห์",
+                "dcode": "1028",
+                "location": "บริเวณถนนนราธิวาสราชนครินทร์ ซอย 15",
+                "num_pass": 160343,
+                "x": 665766.553,
+                "y": 1516895.298
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53298208694528,
+                    13.716467441905657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "เย็นอากาศ (เทคนิคกรุงเทพ)",
+                "dcode": "1028",
+                "location": "บริเวณม.เทคโนโลยีราชมงคลกรุงเทพฯ",
+                "num_pass": 333383,
+                "x": 665971.428,
+                "y": 1516482.173
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53485199720517,
+                    13.712721466698463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "นราราม3",
+                "dcode": "1012",
+                "location": "บริเวณสำนักงานเขตยานนาวา",
+                "num_pass": 429458,
+                "x": 667216.806,
+                "y": 1514612.422
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54625535496804,
+                    13.695749198435667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "วัดดอกไม้",
+                "dcode": "1012",
+                "location": "บริเวณวัดดอกไม้",
+                "num_pass": 163901,
+                "x": 664909.617,
+                "y": 1513166.293
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52484192207154,
+                    13.682810004964994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "วัดปริวาศ",
+                "dcode": "1012",
+                "location": "บริเวณวัดปริวาศ",
+                "num_pass": 225298,
+                "x": 665924.796,
+                "y": 1512257.977
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53417325474122,
+                    13.674541797357186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "รถไฟฟ้ารัชดา-ราชพฤกษ์",
+                "dcode": "1015",
+                "location": "บริเวณถนนรัชดาภิเษก-ถนนราชพฤกษ์",
+                "num_pass": 465665,
+                "x": 659861.359,
+                "y": 1516695.793
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.47837363910618,
+                    13.714996773952723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "ถนนจันทน์",
+                "dcode": "1012",
+                "location": "ระหว่างแยกถนนจันทน์ใหม่กับถนนจันทน์เก่า",
+                "num_pass": 356247,
+                "x": 666232.931,
+                "y": 1515976.718
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53723995535047,
+                    13.708137665882663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "วัดด่าน",
+                "dcode": "1012",
+                "location": "บริเวณวัดด่านใกล้ตึก sv city",
+                "num_pass": 315042,
+                "x": 666744.996,
+                "y": 1512140.979
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54174815668262,
+                    13.67343720135232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "เจริญราษฎร์",
+                "dcode": "1031",
+                "location": "บริเวณแยกถนนเจริญราษฎร์-ถนนรัชดาภิเษก",
+                "num_pass": 149071,
+                "x": 662996.932,
+                "y": 1513869.113
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50720102482738,
+                    13.689271082789457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "สะพานพระราม 9",
+                "dcode": "1031",
+                "location": "บริเวณใต้สะพานพระราม 9",
+                "num_pass": 100152,
+                "x": 663828.511,
+                "y": 1513752.937
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51488185740232,
+                    13.688174038767045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "name": "สะพานพระราม 3",
+                "dcode": "1031",
+                "location": "บริเวณขึ้นลงสะพานพระราม 3",
+                "num_pass": 176118,
+                "x": 661912.107,
+                "y": 1514712.951
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49722055785467,
+                    13.696959493047528
+                ]
+            }
+        }
+    ]
+}

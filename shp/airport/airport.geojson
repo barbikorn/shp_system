@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32647"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "NAME": "ท่าอากาศยานสุวรรณภูมิ",
+        "DCODE": "1103",
+        "TEL_": "02-1321888,1321838",
+        "Area": "20,000",
+        "Location": "ต.ราชาเทวะ อ.บางพลี จ.สมุทรปราการ",
+        "usability": "สาธารณะ",
+        "x": 687227.969,
+        "y": 1512526.47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [687227.968619886785746, 1512526.469909939914942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "NAME": "ท่าอากาศยานกรุงเทพ(ดอนเมือง)",
+        "DCODE": "1336",
+        "TEL_": "-",
+        "Area": null,
+        "Location": "แขวงสีกัน เขตดอนเมือง",
+        "usability": "สาธารณะ",
+        "x": 673064.645,
+        "y": 1538923.035
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [673064.644895816920325, 1538923.034986375831068]
+      }
+    }
+  ]
+}

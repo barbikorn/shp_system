@@ -1,0 +1,2918 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1020",
+                "name_e": "Legal Execution Department",
+                "addess": "189/1 ถนนบางกอกน้อย-ตลิ่งชัน แขวงบางขุนนนท์ เขตบางกอกน้อย กทม.",
+                "tel": "0 2433 6001-5,0 2433 6007-9",
+                "name_t": "กรมบังคับคดี"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.46463719652361,
+                    13.777992292540043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of Internal Trade",
+                "addess": "ถนนมหาราช กทม.",
+                "tel": "0 2221 0062,0 2221 4708,0 2221 4706",
+                "name_t": "กรมการค้าภายใน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49023182844066,
+                    13.746544185297209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of Foreign Trade",
+                "addess": "ถนนสนามไชย กทม.",
+                "tel": "0 2223 1481-5,0 2225 1315-29",
+                "name_t": "กรมการค้าต่างประเทศ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49382245663335,
+                    13.7442213912781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1016",
+                "name_e": "Royal Thai Navy",
+                "addess": "พระราชวังเดิม ถ.วังเดิม แขวงวัดอรุณ เขตบางกอกใหญ่ กทม.",
+                "tel": "0 2475 5184",
+                "name_t": "กองทัพเรือ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.48857528656757,
+                    13.742049381232233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Office of the Attorney-General",
+                "addess": "อาคารหลักเมือง ถนนหน้าหับเผย แขวงบรมมหาราชวัง เขตพระนคร กทม.",
+                "tel": "0 2222 8121-30",
+                "name_t": "สำนักงานอัยการสูงสุด"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49460432806248,
+                    13.75292927021259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1017",
+                "name_e": "Department of Public Works and Town and Country Plannig",
+                "addess": "224 ถ.พระราม9 แขวงห้วยขวาง เขตห้วยหขวาง กทม. 10320",
+                "tel": "0 2201 8000",
+                "name_t": "กรมโยธาธิการและผังเมืองกระทรวงมหาดไทย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57323039495441,
+                    13.756529281796686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1026",
+                "name_e": "Department of Employment",
+                "addess": "ถนนมิตรไมตรี แขวงดินแดง เขตดินแดง  กทม.",
+                "tel": "0 2247 0301",
+                "name_t": "กรมการจัดหางาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.55067047368613,
+                    13.764456690059689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1026",
+                "name_e": "Ministry of Labour",
+                "addess": "ถ. มิตรไมตรี แขวงดินแดง เขตดินแดง กทม. 10400",
+                "tel": "0 2232 1235 สายด่วน 1506",
+                "name_t": "กระทรวงแรงงานและสวัสดิการสังคม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.55034453346791,
+                    13.764650690233786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "The  Government Public Relations Department (PRD)",
+                "addess": "9  ซอยอารีย์สัมพันธ์  ถ.พระรามที่ 6  แขวงสามเสนใน  เขตพญาไท กทม. 10400",
+                "tel": "0 2618 2323 - 40",
+                "name_t": "กรมประชาสัมพันธ์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53813325584419,
+                    13.780439521055257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Ministry of Finance",
+                "addess": "ถ.พระราม 6 แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "0 2273 9021",
+                "name_t": "กระทรวงการคลัง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53508059127283,
+                    13.781891272290727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Excise Department",
+                "addess": "1488 ถ.นครไชยศรี เขตดุสิต กทม. 10300",
+                "tel": "0 2668 6619,0 2241 4778",
+                "name_t": "กรมสรรพสามิต"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52550045871459,
+                    13.77730351841064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Department of Public works and & Country Planning",
+                "addess": "218/1 ถ.พระราม6 แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "0 2299 4000",
+                "name_t": "กรมโยธาธิการและผังเมือง กระทรวงมหาดไทย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5302091545002,
+                    13.777094506919068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "National Park,Wildlife and Plant",
+                "addess": "75/10  ถนนพระรามที่ 6  แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2264 4744",
+                "name_t": "กรมทรัพยากรธรณี"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52777727279711,
+                    13.762572285115064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Department of Industrial works",
+                "addess": "อาคารกรมโรงงานอุตสาหกรรม ชั้น 6 ถนนพระสุเมรุ บางลำพู เขตพระนคร กทม.",
+                "tel": "0 22818463 0 2281-7641",
+                "name_t": "กรมโรงงานงานอุตสาหกรรม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52726420319811,
+                    13.763537631466654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Department of Industrial Promotion",
+                "addess": "75/6 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2278 1685-8",
+                "name_t": "กรมส่งเสริมอุตสาหกรรม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52761107852467,
+                    13.763332625702116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Ministry of Science and Technology",
+                "addess": "ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี  กทม.",
+                "tel": "0 2246 0064,0 2640 9600",
+                "name_t": "กระทรวงวิทยาศาสตร์และเทคโนโลยี , สำนักงานปลัดกระทรวง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52858333833368,
+                    13.76421671376982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "The Department of Highways",
+                "addess": "ถนนศรีอยุธยา  แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2354 6668-76",
+                "name_t": "กรมทางหลวง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52479491804144,
+                    13.761565633852852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1007",
+                "name_e": "Royal Thai Police",
+                "addess": "ถนนพระราม 1 แขวงวังใหม่ เขตปทุมวัน กทม. 10330",
+                "tel": "0 2142 1153",
+                "name_t": "สำนักงานตำรวจแห่งชาติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53733651121861,
+                    13.744301201288048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Ministry of Education",
+                "addess": "319 อาคารราชวัลลภ วังจันทร์เกษม เขตดุสิต กทม. 10200",
+                "tel": "0 2280 0309,0 2280 1260",
+                "name_t": "กระทรวงศึกษาธิการ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50877870137474,
+                    13.765591461596914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "The Cooperatives Promotion Department",
+                "addess": "12 ถนนกรุงเกษม เทเวศร์  แขวงวัดสามพระยา เขตพระนคร กทม.",
+                "tel": "0 2281 3095,0 282 2922,02 281 1900",
+                "name_t": "กรมส่งเสริมสหกรณ์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50143792558453,
+                    13.770005906290766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1007",
+                "name_e": "Department of Alternative Energy Development and Efficiency",
+                "addess": "17 ถ.พระราม 1 แขวงรองเมือง เขตปทุมวัน กทม. 10330",
+                "tel": "0 2223 0021-9,0 2222-4102-9",
+                "name_t": "กรมพัฒนาพลังงานทดแทนและอนุรักษ์พลังงาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51749488510553,
+                    13.749622554390445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1008",
+                "name_e": "Department of Medical Sciences",
+                "addess": "693 ถนนบำรุงเมือง เขตป้อมปราบศัตรูพ่าย กทม.",
+                "tel": "0 2223 1444,0 2223 1671,0 2223-1782",
+                "name_t": "กรมวิทยาศาสตร์การแพทย์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51638649658388,
+                    13.74961716523911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1033",
+                "name_e": "The Customs Department",
+                "addess": "1 ถ.สุนทรโกษา เขตคลองเตย กทม. 10110",
+                "tel": "0 2667 6000,0 2667 7000",
+                "name_t": "กรมศุลกากร"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.56558721311414,
+                    13.71378285202991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1028",
+                "name_e": "Department of Civik Aviation (DCA)",
+                "addess": "71 ซ.งามดูพลี แขวงทุ่งมหาเมฆ เขตสาทร กทม. 10120",
+                "tel": "0 2287 0320-9",
+                "name_t": "กรมการพลเรือน กรมการบินพาณิชย์(กรมการขนส่งทางอากาศ)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54255875196232,
+                    13.717629839301628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Office of The Council of State of Thailand",
+                "addess": "1 ถนนพระอาทิตย์ เขตพระนคร กทม. 10200",
+                "tel": "0 2222 0206-9,221 5306,221 5313",
+                "name_t": "สำนักงานคณะกรรมการกฤษฏีกา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49066718698857,
+                    13.759723970630558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "The Fine Arts Department",
+                "addess": "ถนนหน้าพระธาตุ กทม.",
+                "tel": "0 2221 7811,0 2225-2652",
+                "name_t": "กรมศิลปากร"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49111796750249,
+                    13.752951136542332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1017",
+                "name_e": "Department of Intellectural Property",
+                "addess": "ถนนรัชดาภิเษก เขตห้วยขวาง กทม.",
+                "tel": "0 2276 0036-45",
+                "name_t": "กรมทรัพย์สินทางปัญญา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57478446562624,
+                    13.791332438071171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "The Revenue Department",
+                "addess": "90 ซ.พหลโยธิน แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "สายด่วน 1161",
+                "name_t": "กรมสรรพากร"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54080884817024,
+                    13.784795695461513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Royal Irrigation Department",
+                "addess": "ถนนสามเสน  แขวงถนนนครไชยศรี เขตดุสิต กทม.",
+                "tel": "0 2241 0740-9",
+                "name_t": "กรมชลประทาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51131812484057,
+                    13.788034908618888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Department of Livestock Development",
+                "addess": "ถนนพญาไท กทม.",
+                "tel": "0 2251 5136 -38,0 2251 5790",
+                "name_t": "กรมปศุสัตว์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53350388102687,
+                    13.75566819564741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1008",
+                "name_e": "Department of Technical and Economic Cooperation (DTEC)",
+                "addess": "962 ถนนกรุงเกษม แขวงวัดโสมนัส เขตป้อมปราบศัตรูพ่าย  กทม.",
+                "tel": "0 2280 0980",
+                "name_t": "กรมวิเทศสหการ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5143562390718,
+                    13.757401852088096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1008",
+                "name_e": "Office of the National Economic and Social Development Board",
+                "addess": "962  ถนนกรุงเกษม  แขวงวัดโสมนัส  เขตป้อมปราบศัตรูพ่าย กทม. 10100",
+                "tel": "0 2280 4085",
+                "name_t": "สำนักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ (ป.ป.ป.)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51477480002767,
+                    13.757044281393561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1041",
+                "name_e": "National Statistical Office (NSO)",
+                "addess": "ศูนย์ราชการเฉลิมพระเกียรติ 80 พรรษา อาคารรัฐประศาสนภักดี ชั้น2 ถ.แจ้งวัฒนะ เขตหลักสี่ กทม. 10210",
+                "tel": "0 2142 1234",
+                "name_t": "สำนักงานสถิติแห่งชาติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57110572930068,
+                    13.884026462997491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1008",
+                "name_e": "Department of Social Development and welfare",
+                "addess": "1034 ถ.กรุงเกษม แขวงมหานาค เขตป้อมปราบศัตรูพ่าย กทม. 10100",
+                "tel": "0 2659 6399",
+                "name_t": "กรมพัฒนาสังคมและสวัสดิการ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51545822406165,
+                    13.755566698818404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Ministry of Agricultral and Cooperative",
+                "addess": "3 ถ.ราชดำเนินนอก แขวงบางขุนพรหม เขตพระนคร กทม. 10200",
+                "tel": "0 2282 2555,0 22281 8510",
+                "name_t": "กระทรวงเกษตรและสหกรณ์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50678333927361,
+                    13.75920924245106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1008",
+                "name_e": "Office of the Permanent  Secretary",
+                "addess": "38 ถนนราชดำเนินนอก  แขวงวัดโสมนัส เขตป้อมปราบศัตรูพ่าย กทม.",
+                "tel": "0 2281 3871",
+                "name_t": "สำนักงานปลัดกระทรวงคมนาคม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50762587274156,
+                    13.758846934982921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Agricultural Land Reform Office",
+                "addess": "ถนนราชดำเนินนอก  แขวงบ้านพานถม เขตพระนคร กทม.",
+                "tel": "0 2282 9004,02282 9006",
+                "name_t": "สำนักงานปฏิรูปที่ดินเพื่อการเกษตรกรรม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50606548786294,
+                    13.757729729652254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Office of the Permanent Secretary for Ineterior",
+                "addess": "ถนนอัษฎางค์ แขวงวัดราชบพิธ เขตพระนคร กทม.",
+                "tel": "0 2222 1141-55",
+                "name_t": "สำนักงานปลัดกระทรวงมหาดไทย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49704463462817,
+                    13.750720050963317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of Labour Protection and Welfare",
+                "addess": "ถนนเฟื่องนคร แขวงวัดราชบพิธ เขตพระนคร  กทม.",
+                "tel": "0 2221 5140-4,0 2248 5558",
+                "name_t": "กรมสวัสดิการและคุ้มครองแรงงาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49778604184816,
+                    13.749982938406918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of  Provincial Admimnistration Ministry of Interior",
+                "addess": "ถนนอัษฎางค์ แขวงวัดราชบพิธ เขตพระนคร กทม.",
+                "tel": "0 2221 0151-8,1548",
+                "name_t": "กรมการปกครอง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4970586579696,
+                    13.74986729162554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of Protocol",
+                "addess": "วังสราญรมย์ ถนนสนามไชย  แขวงพระบรมมหาราชวัง เขตพระนคร  กทม.",
+                "tel": "0 2225 0096,0 2225 7900-43",
+                "name_t": "กรมพิธีการฑูต"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49496901944137,
+                    13.748011642457271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Office of the Minister",
+                "addess": "กระทรวงต่างประเทศ ถ.ศรีอยุธยา กทม. 10400",
+                "tel": "0 2643 5000",
+                "name_t": "สำนักงานรัฐมนตรีกระทรวงต่างประเทศ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49493911018422,
+                    13.748011797080139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1041",
+                "name_e": "Department of Lands",
+                "addess": "ศูนย์ราชการเฉลิมพระเกียรติ 80 พรรษา อาคาร B ชั้น 1-6 ถ.แจ้งวัฒนะ แขวงทุ่งสองห้อง เขตหลักสี่ กทม. 10210",
+                "tel": "0 2141 5555",
+                "name_t": "กรมที่ดิน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5687697071971,
+                    13.885173047964486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "The Goverment Lottery office",
+                "addess": "3 ถ.ราชดำเนินกลาง แขวงตลาดยอด เขต พระนคร กทม. 10200",
+                "tel": "0 2281 1611",
+                "name_t": "สำนักงานสลากกินแบ่งรัฐบาล"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49651056749148,
+                    13.758177937329195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Land Development Department",
+                "addess": "ถนนพหลโยธิน จตุจักร กทม.",
+                "tel": "0 2579 0111,0 2941 1968-85",
+                "name_t": "กรมพัฒนาที่ดิน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5730580714808,
+                    13.837603201241507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "The Department of Land Transport",
+                "addess": "1032 ถนนพหลโยธิน  แขวงจอมพล  เขตจตุจักร กทม.",
+                "tel": "0 2272 3100,0 272 3601-09",
+                "name_t": "กรมการขนส่งทางบก"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.55269252115865,
+                    13.799126708526138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Office of the Public Sector Development Commission",
+                "addess": "59 ถนนพิษณุโลก แขวงจิตรลดา เขตดุสิต",
+                "tel": "0 2356 9999",
+                "name_t": "สำนักงานคณะกรรมการพัฒนาระบบราชการ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51330589451824,
+                    13.764074037499796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Office of the Permanent Secretary",
+                "addess": "สำนักงานปลัดสำนักนายกรัฐมนตรี ถ.พิษณุโลก  เขตดุสิต กทม. 10300",
+                "tel": "0 2281 9621, 0 2281 9623",
+                "name_t": "สำนักปลัดสำนักนายกรัฐมนตรี"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51156441260386,
+                    13.763890107124016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "The Secretariat of the Cabinet",
+                "addess": "ทำเนียบรัฐบาล ถ.พิษณุโลก เขตดุสิต กทม. 10300",
+                "tel": "0 2280 9000",
+                "name_t": "สำนักเลขาธิการคณะรัฐมนตรี"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51079771171578,
+                    13.763124340824408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Office The National Security Council (NSC)",
+                "addess": "เลขที่ 1 ทำเนียบรัฐบาล ถนนพิษณุโลก เขตดุสิต กทม. 10300",
+                "tel": "0 2629 8000",
+                "name_t": "สำนักงานสภาความมั่นคงแห่งชาติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51100958594517,
+                    13.763578083812803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "The Secretariat of the Prime Minister",
+                "addess": "ทำเนีบยรรัฐบาล ถ.พิษณุโลก เขตดุสิต กทม. 10300",
+                "tel": "0 2281 2726",
+                "name_t": "สำนักเลขาธิการนายกรัฐมนตรี"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51126735548375,
+                    13.764176331167123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1041",
+                "name_e": "Office of the Consumer Protection Board (OCPB)",
+                "addess": "ศูนย์ราชการเฉลิมพระเกียรติ 80 พรรษา 5 ธันวาคม 2550 อาคารบี ชั้น5 ถ.แจ้งวัฒนะ แขวงทุ่งสองห้อง เขตหลักสี่ กทม. 10210",
+                "tel": "สายด่วน 1166",
+                "name_t": "สำนักงานคณะกรรมการคุ้มครองผู้บริโภค"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.56036836232168,
+                    13.884994102586964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "The Bureau of the Budget",
+                "addess": "ถนนพระรามที่ 6 แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "0 2273 9999",
+                "name_t": "สำนักงบประมาณ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53535586841119,
+                    13.781233548870496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Office of the Permanent Secretary for Defence",
+                "addess": "7 ถ. สนามไชย แขวงพระบรมมหาราชวัง เขตพระนคร กทม. 10200",
+                "tel": "0 2221 4858",
+                "name_t": "สำนักงานปลัดกระทรวงกลาโหม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4947513390702,
+                    13.752128807910882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "National Intelligence Agency (NIA)",
+                "addess": "321 ถนนราชดำเนินนอก  แขวงจิตรลดา เขตดุสิต กทม. 10300",
+                "tel": "0 2281 7399,0 2281 7504 0 281 7715",
+                "name_t": "สำนักข่าวกรองแห่งชาติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5104335887862,
+                    13.766988293192563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Royal Thai  Army",
+                "addess": "ถ.ราชดำเนินนอก เขตพระนคร กทม. 10200",
+                "tel": "0 2241 0404",
+                "name_t": "กองทัพบก"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50629109314937,
+                    13.762260442334822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1036",
+                "name_e": "Royal Thai Force",
+                "addess": "ดอนเมือง กทม. 10210",
+                "tel": "0 2 534 0730",
+                "name_t": "กองทัพอากาศ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.60484714994827,
+                    13.898634893006223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Royal Aide-De-camp Department",
+                "addess": "สวนจิตรลดา ถ.ราชวิถี เขตดุสิต กทม. 10303",
+                "tel": "0 2283 2700",
+                "name_t": "กรมราชองครักษ์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51765715625622,
+                    13.767843757253406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1041",
+                "name_e": "Royal thai Armed Forces Headquater",
+                "addess": "127 ม.3 ถ.แจ้งวัฒนะ แขวงทุ่งสองห้อง เขตหลักสี่ กทม. 10210",
+                "tel": "0 2572 1523",
+                "name_t": "กองบัญชาการกองทัพไทย (กองบัญชาการทหารสูงสุด)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.56675906521293,
+                    13.888308810606665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Public Debt Management Office",
+                "addess": "สำนักงานบริหารหนี้สาธารณะ ถ.พระราม6 แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "0 2265 8050",
+                "name_t": "สำนักงานบริหารหนี้สาธารณะ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5356673465151,
+                    13.78216477828643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Fiscal Policy Office",
+                "addess": "สำนักงานเศรษฐกิจการคลัง ถ.พระราม6 อารีสัมพันธ์ แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "0 2273 9020",
+                "name_t": "สำนักงานเศรษฐกิจการคลัง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53544476602615,
+                    13.782224281089364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "State Enterprise Policy office",
+                "addess": "สำนักงานคณะกรรมการนโยบายรัฐวิสาหกิจ ถ.พระราม6 แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "0 2298 5880-9",
+                "name_t": "สำนักงานคณะกรรมการนโยบายรัฐวิสาหกิจ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53650846801646,
+                    13.78144537924007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "The comptroller General Department",
+                "addess": "ถ.พระราม6 แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "0 2127 7000,0 2270 6400",
+                "name_t": "กรมบัญชีกลาง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53688722804397,
+                    13.781205918505014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "The Treasury Department",
+                "addess": "ซ. อารีย์สัมพันธ์ ถ.พระราม6 แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "0 2273 0899-903",
+                "name_t": "กรมธนารักษ์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53674406602549,
+                    13.780642384680107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Office of the Permanent Secretary Ministry of Finance",
+                "addess": "ถ.พระราม 6 แขวงสามเสนใน เขตพญาไท กทม.  10400",
+                "tel": "0 2273 9021",
+                "name_t": "สำนักงานปลัดกระทรวงการคลัง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53510401466438,
+                    13.781971776398386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Office of the Permanent Secetary",
+                "addess": "วังสราญรมย์  ถนนสนามไชย  แขวงพระบรมมหาราชวัง เขตพระนคร  กทม.",
+                "tel": "0 2225 0096,0 2225 7900-43",
+                "name_t": "สำนักปลัดกระทรวงการต่างประเทศ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49495098440458,
+                    13.748011501637338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of European Affairs",
+                "addess": "วังสราญรมย์  ถนนสนามไชย  แขวงพระบรมมหาราชวัง เขตพระนคร กทม.",
+                "tel": "0 2225 0096,0 22257 900-43",
+                "name_t": "กรมยุโรป"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49499219389268,
+                    13.74801177474166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of Economic Affairs",
+                "addess": "วังสราญรมย์ ถนนสนามไชย  แขวงพระบรมมหาราชวัง เขตพระนคร  กทม.",
+                "tel": "0 2225 0096,0 22257 900-43",
+                "name_t": "กรมเศรษฐกิจระหว่างประเทศ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49501767598895,
+                    13.748012052361386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of Information",
+                "addess": "วังสราญรมย์ ถนนสนามไชย  แขวงพระบรมมหาราชวัง เขตพระนคร  กทม.",
+                "tel": "0 2225 0096,0 22257 900-43",
+                "name_t": "กรมสารนิเทศ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49504018453493,
+                    13.748010495752261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of American and South Pacific Affairs",
+                "addess": "วังสราญรมย์ ถนนสนามไชย  แขวงพระบรมมหาราชวัง เขตพระนคร  กทม.",
+                "tel": "0 2225 0096,0 2225 7900-43",
+                "name_t": "กรมอเมริกาและแปซิฟิกใต้"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49506779570936,
+                    13.748011748511216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of East Asian Affairs",
+                "addess": "วังสราญรมย์ ถนนสนามไชย  แขวงพระบรมมหาราชวัง  เขตพระนคร  กทม.",
+                "tel": "0 2225 0096,0 2225 7900-43",
+                "name_t": "กรมเอเชียตะวันออก"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49508958689177,
+                    13.74801161639927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of South Asian,Middle East and African Affairs",
+                "addess": "วังสราญรมย์ ถนนสนามไชย  แขวงพระบรมมหาราชวัง เขตพระนคร  กทม.",
+                "tel": "0 2225 0096,0 2225 7900-43",
+                "name_t": "กรมเอเชียใต้ ตะวันออกกลางและแอฟริกา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49510411434656,
+                    13.748011528323579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Department of Treaties and Legal Affairs",
+                "addess": "408/124 อาคารพหลโยธินเพลส ชั้น 29 ถนนพหลโยธิน พญาไท กทม.",
+                "tel": "0 2619 0016-23",
+                "name_t": "กรมสนธิสัญญาและกฎหมาย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54637966897384,
+                    13.782847556214318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "International Organization Department",
+                "addess": "เลขที่ 408 (ชั้น30) อาคารพหลโยธินเพลส ถนนพหลโยธิน แขวงสามเสนใน เขตพญาไท กทม.",
+                "tel": "0 2619 0016-23",
+                "name_t": "กรมองค์การระหว่างประเทศ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54644447295324,
+                    13.782834740527187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Department of ASEAN Affairs",
+                "addess": "อาคารพหลโยธินเพลส เลขที่408 (ชั้น30) ถนนพหลโยธิน แขวงสามเสนใน เขตพญาไท กทม.",
+                "tel": "0 2619 0016-23",
+                "name_t": "กรมอาเซียน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54650504525334,
+                    13.782821951423587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1041",
+                "name_e": "Department of Consular Affairs",
+                "addess": "123 ถนนแจ้งวัฒนะ  แขวงทุ่งสองห้อง เขตหลักสี่ กทม.",
+                "tel": "0 2981 7171",
+                "name_t": "กรมการกงสุล"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.56692441418565,
+                    13.889948101380185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1008",
+                "name_e": "Office of Permanent Secretary",
+                "addess": "เลขที่ 4 ถนนราชดำเนินนอก (สี่แยก จปร.) แขวงวัดโสมนัส เขตป้อมปราบศัตรูพ่าย กทม.",
+                "tel": "0 2283 1555",
+                "name_t": "สำนักปลัดกระทรวงการท่องเที่ยวและกีฬา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50826281998768,
+                    13.760278679678118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1007",
+                "name_e": "Department of Physical Education",
+                "addess": "สนามกีฬาแห่งชาติ ถนนพระราม 1 แขวงวังใหม่  เขตปทุมวัน กทม.",
+                "tel": "0 2214 0127,0 2214 0129",
+                "name_t": "กรมพลศึกษา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52633212292575,
+                    13.745780898393555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1007",
+                "name_e": "Department of Tourism",
+                "addess": "สนามกีฬาแห่งชาติ ถนนพระราม 1 แขวงวังใหม่ เขตปทุมวัน กทม.",
+                "tel": "0 2219 4010-17",
+                "name_t": "กรมการท่องเที่ยว"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52637121207168,
+                    13.74594784997298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1008",
+                "name_e": "Office of the Permanent Secretary for Social Development and Human Security of Thailand",
+                "addess": "1034 อาคาร 3 ชั้น 2 ถ.กรุงเกษม แขวงมหานาค เขตป้อมปราบศัตรูพ่าย กทม. 10100",
+                "tel": "0 2659 6399",
+                "name_t": "สำนักงานปลัดกระทรวงพัฒนาสังคมและความมั่นคงของมนุษย์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5155167339632,
+                    13.75576493967051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Women's Affair and family Development",
+                "addess": "เลขที่ 123 อาคารซันทาวเวอร์ A ชั้น 22-23 ถนนวิภาวดีรังสิต  จตุจักร กทม.",
+                "tel": "0 2612 8764",
+                "name_t": "สำนักงานกิจการสตรีและสถาบันครอบครัว"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5587689502734,
+                    13.808086357622136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Office of Welfare Promotion,Protection of Vulnerable Groups",
+                "addess": "618/1 ถนนนิคมมักกะสัน แขวงมักกะสัน เขตราชเทวี กทม.",
+                "tel": "0 2651 6920",
+                "name_t": "สำนักงานส่งเสริมสวัสดิภาพและพิทักษ์เด็ก เยาวชน ผู้ด้อยโอกาส"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54336360264415,
+                    13.754339323304551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1008",
+                "name_e": "Department of Social Development and Welfare",
+                "addess": "ถนนกรุงเกษม แขวงคลองมหานาค เขตป้อมปราบศัตรูพ่าย กทม. 10100",
+                "tel": "0 2659 6900",
+                "name_t": "กรมพัฒนาสังคมและสวัสดิการ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51599199049497,
+                    13.755275053860455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Office of the Permanent Secretary for Agricultural and Cooperatives",
+                "addess": "ถนนราชดำเนินนอก แขวงบ้านพานถม เขตพระนคร กทม.",
+                "tel": "0 2281 5955,0 2281 5939",
+                "name_t": "สำนักงานปลัดกระทรวงเกษตรและสหกรณ์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50675766681516,
+                    13.75929566523676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Department of Cooperative Auditing",
+                "addess": "12 ถนนกรุงเกษม เทเวศ  แขวงวัดสามพระยา เขตพระนคร กทม.",
+                "tel": "0 2628 5240-9",
+                "name_t": "กรมตรวจบัญชีสหกรณ์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50195766450659,
+                    13.770561711713919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Department of Fisheries",
+                "addess": "มหาวิทยาลัยเกษตร  แขวงลาดยาว เขตจตุจักร กทม.",
+                "tel": "0 2562 0600-15",
+                "name_t": "กรมประมง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57562089784057,
+                    13.84448572528666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Department of Agriculture",
+                "addess": "เลขที่ 50 ถนนพหลโยธิน มหาวิทยาลัยเกษตร  แขวงลาดยาว เขตจตุจักร กทม.",
+                "tel": "0 2579 0151-8",
+                "name_t": "กรมวิชาการเกษตร"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57408311797904,
+                    13.852811657705175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Royal Forest Department",
+                "addess": "61 ถ.พหลโยธิน แขวงลาดยาว เขตจตุจักร กทม.",
+                "tel": "0 2561 4292-3",
+                "name_t": "กรมป่าไม้"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57890155444154,
+                    13.849376017519246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Department of Agriculture Extension",
+                "addess": "ถนนพหลโยธิน มหาวิทยาลัยเกษตร  แขวงลาดยาว เขตจตุจักร กทม.",
+                "tel": "0 2579 0121-8,0 2940 6080-5",
+                "name_t": "กรมส่งเสริมการเกษตร"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57560083728342,
+                    13.847319910552336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Office of Agricultural Economics",
+                "addess": "ถนนพหลโยธิน เขตจตุจักร กทม.",
+                "tel": "0 2940 5550-1,0 2940 5553",
+                "name_t": "สำนักงานเศรษฐกิจการเกษตร"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57354325477111,
+                    13.842719748742038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "National bureau of  Aqricultural Communiy and Food Standards",
+                "addess": "เลขที่ 3 อาคารกระทรวงเกษตรและสหกรณ์ ชั้น 4  ถนนราชดำเนินนอก  แขวงบ้านพานถม  เขตพระนคร กทม.",
+                "tel": "0 2283 1600",
+                "name_t": "สำนักงานมาตรฐานสินค้าเกษตรและอาหารแห่งชาติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50686343711342,
+                    13.759554751903812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Marine Department",
+                "addess": "19 ถนนพระอาทิตย์ แขวงชนะสงคราม เขตพระนคร กทม.",
+                "tel": "0 2280 7900-3",
+                "name_t": "กรมการขนส่งทางน้ำและพาณิชนาวี"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49197530229775,
+                    13.761198367163871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Office of Transport and Traffic Policy and Planning",
+                "addess": "35 ถนนเพชรบุรี  แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2215 1515",
+                "name_t": "สำนักงานนโยบายและแผนการขนส่งจราจร"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52179775223308,
+                    13.757805463663628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Department of Rural Roads",
+                "addess": "218/1 ถนนพระรามที่ 6  แขวงสามเสนใน เขตพญาไท กทม.",
+                "tel": "0 2299 4591-2",
+                "name_t": "กรมทางหลวงชนบท"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53003624773767,
+                    13.776649380724134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Department of Marine and Coastal Resources",
+                "addess": "92 ซอยพหลโยธิน 7 ถนนพหลโยธิน สามเสนใน พญาไท กทม.",
+                "tel": "0 2298 2000",
+                "name_t": "กรมควบคุมมลพิษ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53962426436888,
+                    13.784927249735192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Department of Marine and coastal Resources",
+                "addess": "92 ซอยพหลโยธิน 7 ถนนพหลโยธิน สามเสนใน พญาไท กทม.",
+                "tel": "0 298 2591-2",
+                "name_t": "กรมทรัพยากรทางทะเลและชายฝั่ง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53985280608461,
+                    13.785037364890059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Office of the Permanent Secretary For Natural Resources and Environment",
+                "addess": "92 ถนนพหลโยธิน ซอย 7 เขตพญาไท กทม.",
+                "tel": "0 2278 8500",
+                "name_t": "สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53973259446866,
+                    13.78488853112848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Pollution Control Department",
+                "addess": "60/1 ซอยพิบูลวัฒนา 7 ถนนพระรามที่ 6  แขวงสามเสนใน เขตพญาไท กทม.",
+                "tel": "0 2279 7180-9",
+                "name_t": "สำนักงานนโยบายและแผนทรัพยากรธรรมชาติและสิ่งแวดล้อม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53639868569587,
+                    13.783052056742868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Department of Water Resources",
+                "addess": "49 ถนนพระรามที่ 6 ซอย 30 เขตพญาไท กทม.",
+                "tel": "0 2298 5637,0 2788 400-9",
+                "name_t": "กรมส่งเสริมคุณภาพสิ่งแวดล้อม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53642371516202,
+                    13.783127455849485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Office of the Environment Policy and Planning",
+                "addess": "ชั้น 9 อาคารกรมส่งเสริมคุณภาพสิ่งแวดล้อม เลขที่ 49  ซอย 30 ถนนพระราม 6 เขตพญาไท กทม.",
+                "tel": "0 2298 5670-90",
+                "name_t": "กรมทรัพยากรน้ำ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53650071542091,
+                    13.783337598325648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Department of Groundwater Resources",
+                "addess": "ชั้น 8  อาคารกรมส่งเสริมคุณภาพสิ่งแวดล้อม เลขที่49 ซอย 30 ถนนพระราม 6 เขตพญาไท  กทม.",
+                "tel": "0 2299 3900",
+                "name_t": "กรมทรัพยากรน้ำบาดาล"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5364797988013,
+                    13.783286660327532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Department of Groundwater Resources",
+                "addess": "61 ถนนพหลโยธิน แขวงลาดยาว เขตจตุจักร กทม.",
+                "tel": "0 2561 4292-3",
+                "name_t": "กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57879863771826,
+                    13.84926293975508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1047",
+                "name_e": "The Meteorological Department (MET)",
+                "addess": "4353 ถ.สุขุมวิท แขวงบางจาก เขตบางจาก กทม.",
+                "tel": "0 2399 4566,0 2399 4568-74",
+                "name_t": "กรมอุตุนิยมวิทยา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.60471689003764,
+                    13.667144070545527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1041",
+                "name_e": "Office of the Permanent Secretary",
+                "addess": "อาคาร 9 บริษัท ทีโอที จำกัด(มหาชน) ถนนแจ้งวัฒนะ หลักสี่ กทม.",
+                "tel": "0 2505 7370",
+                "name_t": "สำนักงานปลัดกระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5752536611468,
+                    13.88512387164755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Department of Energy Business",
+                "addess": "เลขที่ 222 อาคารฐานเศรษฐกิจ ชั้น 14 ถนนวิภาวดีรังสิต แขวงจตุจักร เขตจตุจักร กทม.",
+                "tel": "0 2513 8942-8",
+                "name_t": "กรมธุรกิจพลังงาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.559494020559,
+                    13.820389044058553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Department of Mineral Fuels",
+                "addess": "อาคารชินวัตรทาวเวอร์ 3 ชั้น 24-26 เลขที่ 1010 ถนนวิภาวดีรังสิต แขวงจตุจักร เขตจตุจักร กทม.",
+                "tel": "0 2791 8300,0 2791 8379-80",
+                "name_t": "กรมเชื้อเพลิงธรรมชาติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.55899595891269,
+                    13.822966571898178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1007",
+                "name_e": "Office of the Permanent Secretary of Energy",
+                "addess": "เลขที่17 ถนนพระรามที่ 1 แขวงรองเมือง เขตปทุมวัน กทม.",
+                "tel": "0 2223 3344",
+                "name_t": "สำนักงานปลัดกระทรวงพลังงาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51754772559906,
+                    13.74939148406234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Publice Company Limited Energy for Sutainable Future",
+                "addess": "เลขที่ 555/1  ถวิภาวดีรังสิต เขตจตุจักร  กทม. 10900",
+                "tel": "0 2537 2000",
+                "name_t": "บริษัท ปตท. จำกัด (มหาชน)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5575947107793,
+                    13.81813076301642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Energy Policy and Planning Office",
+                "addess": "เลขที่ 121/1-2 ถนนเพชรบุรี แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2612 1555",
+                "name_t": "สำนักงานนโยบายและแผนพลังงาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5258223594271,
+                    13.755877215982746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Department of Export Prometion",
+                "addess": "ถนนรัชดาภิเษก แขวงจันทร์เกษม เขตจตุจักร กทม.",
+                "tel": "0 2511 5066-77,0 2512 0093",
+                "name_t": "กรมส่งเสริมการส่งออก"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57571076687965,
+                    13.811913898343763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Department of Local  Administration",
+                "addess": "วังสวนสุนันทา ถนนราชสีมา แขวงวชิระ เขตดุสิต กทม.",
+                "tel": "0 2241 9000",
+                "name_t": "กรมส่งเสริมการปกครองท้องถิ่น"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50969675281108,
+                    13.773623083805214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Department of Disaster Prevention and Mitigation",
+                "addess": "เลขที่ 3/12 ถนนอู่ทองนอก แขวงวขชิระ เขตดุสิต กทม. 10300",
+                "tel": "0 2637 3000",
+                "name_t": "กรมป้องกันและบรรเทาสาธารณภัย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50931996729567,
+                    13.772764779023353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1041",
+                "name_e": "The Community Development Department",
+                "addess": "ศูนย์ราชการเฉลิมพระเกียรติ 80 พรรษา อาคาร B ชั้น 5 ถ.แจ้งวัฒนะ แขวงทุ่งสองห้อง เขตหลักสี่ กทม. 10210",
+                "tel": "0 2141 6024",
+                "name_t": "กรมการพัฒนาชุมชน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.58213202294147,
+                    13.884644264146107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1020",
+                "name_e": "Department of Probatio",
+                "addess": "กระทรวงยุติธรรม ถนนพรานนก แขวงบ้านช่างหล่อ เขตบางกอกน้อย กทม.",
+                "tel": "0 22411 2485",
+                "name_t": "กรมคุมประพฤติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.48185954498143,
+                    13.755456881782738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Office of the Narcotics Control Board (ONCB)",
+                "addess": "เลขที่ 5 ถนนดินแดง แขวงสามเสนใน เขตพญาไท กทม.",
+                "tel": "0 2247 0101,0 2247 0910-19",
+                "name_t": "สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติด"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54486052499468,
+                    13.764528809770221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1029",
+                "name_e": "Department of special investigation",
+                "addess": "499 อาคารสุขประพฤติ ถนนประชาชื่น แขวงบางซื่อ เขตบางซื่อ กทม.",
+                "tel": "0 2913 6789",
+                "name_t": "กรมสอบสวนคดีพิเศษ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53492310506643,
+                    13.814854019389138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1026",
+                "name_e": "Department of Skill Development",
+                "addess": "ถนนมิตรไมตรี แขวงดินแดง เขตดินแดง  กทม.",
+                "tel": "0 2248 3393",
+                "name_t": "กรมพัฒนาฝีมือแรงงาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.55085937613576,
+                    13.764879037990227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1025",
+                "name_e": "Office of the Permanent Secretary For Ministry of Culture",
+                "addess": "666 อาคารธนาลงกรณ์ ชั้น 15-23 ถนนบรมราชชนนี แขวงบางบำหรุ เขตบางพลัด กทม.",
+                "tel": "0 2422 8888",
+                "name_t": "กระทรวงวัฒนธรรม , สำนักปลัดกระทรวงวัฒนธรรม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.47341023238306,
+                    13.783185348839504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1025",
+                "name_e": "Office of Contemporary Art and Culture",
+                "addess": "666 อาคารธนาลงกรณ์ ชั้น 17 ถนนบรมราชชนนี แขวงบางบำหรุ เขตบางพลัด กทม.",
+                "tel": "0 2422 8888",
+                "name_t": "สำนักงานศิลปวัฒนธรรมร่วมสมัย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.47343316391594,
+                    13.783158180038873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1025",
+                "name_e": "The Religious Affairs Department",
+                "addess": "666 อาคารธนาลงกรณ์ ชั้น 15-16 ถนนบรมราชชนนี แขวงบางบำหรุ เขตบางพลัด กทม.",
+                "tel": "0 2422 8771",
+                "name_t": "กรมการศาสนา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.47345904572016,
+                    13.78318579707673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1017",
+                "name_e": "Office of the National Culture Commission (OTCSC)",
+                "addess": "ถนนรัชดาภิเษก แขวงห้วยขวาง เขตห้วยขวาง กทม.",
+                "tel": "0 2247 0013",
+                "name_t": "สำนักงานคณะกรรมการวัฒนธรรมแห่งชาติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57308661749214,
+                    13.767120153875748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Department of Science Service",
+                "addess": "75/7 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2201 7000",
+                "name_t": "กรมวิทยาศาสตร์บริการ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52848478469888,
+                    13.76500093789778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Office of Atomic Energy",
+                "addess": "06 ถนนวิภาวดีรังสิต แขวงลาดยาว เขตจตุจักร กทม.",
+                "tel": "0 2579 5230",
+                "name_t": "สำนักงานปรมณูเพื่อสันติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.56586416639314,
+                    13.854051688542386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Office of the Pernament Secretary",
+                "addess": "319 วังจันทร์เกษม ถนนราชดำเนินนอก กทม.",
+                "tel": "0 2281 6013",
+                "name_t": "สำนักงานปลัดกระทรวงศึกษาธิการ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50898271120404,
+                    13.76557432518752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1025",
+                "name_e": "Office of the Royal Development Projects Board",
+                "addess": "2012 ซ.อรุณอมรินทร์36 ถ. อรุณอมรินท์ แขวงบางยี่ขัน เขตบางพลัด กทม. 10700",
+                "tel": "0 2447 8500-6",
+                "name_t": "สำนักงานคณะกรรมการพิเศษเพื่อประสานงานโครงการอันเนื่องมาจากพระราชดำริ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4936872743344,
+                    13.767729753817768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Vocational Education Commission",
+                "addess": "ถนนราชดำเนินนอก เขตดุสิต กทม.",
+                "tel": "0 2282 5695",
+                "name_t": "สำนักงานคณะกรรมการ การอาชีวศึกษา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50909922546889,
+                    13.764649070457134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Office of the Basic Education Commission",
+                "addess": "ถนนราชดำเนินนอก เขตดุสิต กทม.",
+                "tel": "0 2628 8884,0 2280 6290",
+                "name_t": "สำนักงานคณะกรรมการ การศึกษาขั้นพื้นฐาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.50900551188343,
+                    13.766404415989863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Office of the Education Council",
+                "addess": "99/20 ถนนสุโขทัย แขวงดุสิต เขตดุสิต กทม.",
+                "tel": "0 2668 7123",
+                "name_t": "สำนักงานเลขาธิการสภาการศึกษา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51242293838617,
+                    13.780571765235944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Commission On Higher Education",
+                "addess": "328 ถนนศรีอยุธยา เขตราชเทวี กทม.",
+                "tel": "0 2354 5510-5",
+                "name_t": "สำนักงานคณะกรรมการ การอุดมศึกษา"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53124139450308,
+                    13.759087082720002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Department of Health Service Support",
+                "addess": "976/116-120 อาคารเอสเอ็มทาวเวอร์ ชั้น 34 ถนนพหลโยธิน แขวงสามเสนใน เขตพญาไท กทม.",
+                "tel": "0 2298 0500",
+                "name_t": "กรมสนับสนุนบริการสุขภาพ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54056514921994,
+                    13.771150806726023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "The Office of Industrial Economics",
+                "addess": "75/6 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2245 6700,0 2245 6204",
+                "name_t": "สำนักงานเศรษฐกิจอุตสาหกรรม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52723390465108,
+                    13.763353181190713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Office of the Cane and Sugar Board",
+                "addess": "75/6 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2202 3081",
+                "name_t": "สำนักงานคณะกรรมการอ้อยและน้ำตาลทราย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52711510313496,
+                    13.764020949070703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Office of the Permanent Secretary",
+                "addess": "75/6 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2202 3000",
+                "name_t": "สำนักงานปลัดกระทรวงอุตสาหกรรม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52702864586645,
+                    13.76389472721636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Department of  Primary Industries and Mines",
+                "addess": "75/10 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2202 3554,0 2202 3557",
+                "name_t": "กรมอุตสาหกรรมพื้นฐานและการเหมืองแร่"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5272998398976,
+                    13.762852436183932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Office of the Board of Investment",
+                "addess": "555 ถนนวิภาวดีรังสิต แขวงจตุจักร เขตจตุจักร  กทม.",
+                "tel": "0 2537 8111,0 2537 8155",
+                "name_t": "สำนักงานคณะกรรมการส่งเสริมการลงทุน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.55765112203154,
+                    13.81838108538183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Thai Industrial Standards Instiute",
+                "addess": "75/6 ถนนพระรามที่ 6 แขวงทุ่งพญาไท เขตราชเทวี กทม.",
+                "tel": "0 2202 3300-4",
+                "name_t": "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52733451074731,
+                    13.764886628006447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "The Royal Institute",
+                "addess": "ถนนหน้าพระลาน กทม.",
+                "tel": "0 2221 4822,0 222 0189,0 2222 6159",
+                "name_t": "ราชบัณฑิตยสถาน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4900245305133,
+                    13.751960096422849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Bareau of  the Royal Household",
+                "addess": "ในพระบรมมหาราชวัง ถนนหน้าพระลาน เขตพระนคร กทม.",
+                "tel": "0 2222 8181-3",
+                "name_t": "สำนักพระราชวัง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49027604764338,
+                    13.750721471879002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "Office of the Auditor Reneral of Thailand",
+                "addess": "ซ.อารีย์สัมพันธ์ ถ.พระราม 6 เขตพญาไท กทม. 10400",
+                "tel": "0 2271 8000",
+                "name_t": "สำนักงานตรวจเงินแผ่นดิน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53607147471978,
+                    13.780764421609465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1007",
+                "name_e": "Anti-Money Laundering Office (AMLO)",
+                "addess": "422 ถนนพญาไท แขวงวังใหม่ เขตปทุมวัน กทม.",
+                "tel": "0 2219 3600",
+                "name_t": "สำนักงานป้องกันและปราบปราบการฟอกเงิน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53070865646612,
+                    13.748214148444768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "The National Reseach Council of Thailand",
+                "addess": "196 ถนนพหลโยธิน เขตจตุจักร กทม.",
+                "tel": "0 2561 2445,0 2579 1370",
+                "name_t": "สำนักงานคณะกรรมการวิจัยแห่งชาติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57825281844777,
+                    13.84563534746977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "Office of The Civil Service Commission",
+                "addess": "59 ถนนพิษณุโลก  แขวงจิตรลดา เขตดุสิต กทม. 10300",
+                "tel": "0 2281 3333",
+                "name_t": "สำนักงานคณะกรรมการข้าราชการพลเรือน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51274903387338,
+                    13.764362563080631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1014",
+                "name_e": "The Thailand Reseach fun",
+                "addess": "อาคารเอสเอ็มทาวเวอร์ ถ.พหลโยธิน แขวงสามเสนใน เขตพญาไท กทม. 10400",
+                "tel": "0 2278 8200",
+                "name_t": "สำนักงานกองทุนสนับสนุนการวิจัย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54062106765774,
+                    13.771002744517945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "The office for National Education standards and Quality Assessment (Public Organization) (ONESQA)",
+                "addess": "128 อาคารพญาไทพลาซ่า ชั้นที่ 24 ถ.พญาไท แขวงทุ่งพญาไท เขตราชเทวี กทม. 10400",
+                "tel": "0 2 216 3955",
+                "name_t": "สำนักงานรับรองมาตรฐานและการประเมิน"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53184955467266,
+                    13.756536502538957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1002",
+                "name_e": "OfficeThe Permanent Secretary Prime Minister",
+                "addess": "สำนักปลัดสำนักนายกรัฐมนตรี ทำเนียบรัฐบาล เขตดุสิต กทม. 10300",
+                "tel": "0 2281 7755",
+                "name_t": "สำนักงานคณะกรรมการป้องกันอุบัติภัยแห่งชาติ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51132676062846,
+                    13.76320774854738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1017",
+                "name_e": "MCOT PLC",
+                "addess": "63/1 ถ. พระราม9 แขวงห้วยขวาง เขตห้วยขวาง กทม. 103100",
+                "tel": "0 2201 6000",
+                "name_t": "องค์การสื่อสารมวลชนแห่งประเทศไทย (อสมท.)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.57083714737242,
+                    13.762180156942371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "The War Veterams Organization of Thailand Under Royal Patronge of His Majesty the King",
+                "addess": "420/3 ถ.ราชวิถี แขวงพญาไท เขต ราชเทวี กทม. 10400",
+                "tel": "0 2354 8587",
+                "name_t": "องค์การสงเคราะห์ทหารผ่านศึก"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.53333446811949,
+                    13.76658812663928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1001",
+                "name_e": "Office of the Minister of Defence",
+                "addess": "ภายในศาลาว่าการกลาโหม ถ.สนามไชย แขวงพระบรมมหาราชวัง เขตพระนคร กทม. 10200",
+                "tel": "0 2226 3117",
+                "name_t": "สำนักงานเลขานุการรัฐมนตรี กระทรวงกลาโหม"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49488838930664,
+                    13.751635490072422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1033",
+                "name_e": "Thailand Tobacco Monopoly",
+                "addess": "184 ถ.พระราม4 แขวงคลองเตย เขตคลองเตย กทม. 10110",
+                "tel": "0 2229 1999",
+                "name_t": "โรงงายาสูบ กระทรวงการคลัง"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.553642048987,
+                    13.724797352697898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1030",
+                "name_e": "Office of Insurance Commission",
+                "addess": "22/79 ถ.รัชดาภิเษก แขวงจันทรเกษม เขตจตุจักร กทม. 10900",
+                "tel": "0 2515 3999",
+                "name_t": "สำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธรุกิจประกันภัย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5767134406817,
+                    13.81617405746224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1007",
+                "name_e": "Securities and Exchange Commission Thailand",
+                "addess": "93/1 อาคารจีพีเอฟ ชั้น 10,13-16 แขวงลุมพินี เขตปทุมวัน 10330",
+                "tel": "0 2695 9999",
+                "name_t": "สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54752409403254,
+                    13.737389970802514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1037",
+                "name_e": "Tourism Authority of Thailand",
+                "addess": "1600 ถ.เพชรบุรีตัดใหม่ แขวงมักกะสัน เขตราชเทวี 10400",
+                "tel": "0 2250 5500",
+                "name_t": "การท่องเที่ยวแห่งประเทศไทย(สำนักงานใหญ่)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.55786014554828,
+                    13.749130003933864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "AREA": 0.0,
+                "PERIMETER": 0.0,
+                "DCODE": "1033",
+                "name_e": "Port Authority of Thailand",
+                "addess": "444 ถ.ท่าเรือ เขตคลองเตย กทม. 10110",
+                "tel": "0 2269 3000",
+                "name_t": "การท่าเรือแห่งประเทศไทย"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.56282811993185,
+                    13.712721750202347
+                ]
+            }
+        }
+    ]
+}
